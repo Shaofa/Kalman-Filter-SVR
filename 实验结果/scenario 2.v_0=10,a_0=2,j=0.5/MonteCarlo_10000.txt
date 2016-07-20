@@ -1,0 +1,7 @@
+Monte Carlo Simulation Count: 10000
+
+          mean(m) 	 RMSE(m) 	 time(sec)
+Meausre:  +1.8799 	 +0.9666 	 +0.0000
+CA:       +3.9362 	 +9.9751 	 +0.0039
+Singer:   +2.0768 	 +2.4548 	 +0.0040
+SVR:      +1.5039 	 +0.6734 	 +0.0151
